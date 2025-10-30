@@ -24,6 +24,12 @@ The project also includes a simple file-based persistence (bonus) so inventory i
 - `FileStorage.java` — Saves/loads inventory to a text file (`inventory.txt`).
 - `Main.java` — Example usage & driver program.
 
+  ## Concepts Used
+- *Object-Oriented Programming (OOP):* Classes, Encapsulation, and Abstraction.  
+- *Collections Framework:* HashMap for fast lookup and data management.  
+- *File Handling:* Read/write operations for inventory data.  
+- *Interfaces & Observer Pattern:* Used for alert notifications.
+
 ## How to compile & run (Command Line)
 1. Open a terminal and navigate to the `src` folder:
    ```bash
