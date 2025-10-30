@@ -60,14 +60,6 @@ Product[id=P102, name=Wireless Mouse, qty=17, threshold=5]
 Data persisted to file: inventory.txt (project root)
 ```
 
-## What to explain in interview
-- Why Observer pattern? -> decouples alerting logic from inventory logic.
-- How file persistence works (simple, human-readable format).
-- Thread-safety: `Warehouse` methods are synchronized to avoid race conditions (basic protection).
-- Possible improvements: use JSON, add concurrency tests, multiple warehouses, REST API, unit tests.
 
-## Notes
-- No external libraries used — pure Java.
-- Keep this project in your GitHub and share the repo link during interviews.
 
-Good luck in your campus drive! 🚀
+
